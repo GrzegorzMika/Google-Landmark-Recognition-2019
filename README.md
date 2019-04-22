@@ -13,7 +13,7 @@ How to download data? - https://github.com/cvdfoundation/google-landmark
   <li> <i>TestData.ipynb</i> - Create a test folder for every landmark_id and move images accordingly </li>
  </ul>
 
-<b>Literature:<b>
+<b>Literature:</b>
 <ul>
   <li> <i>Data Augmentation Using GANs</i>, Fabio Henrique Kiyoiti dos Santos Tanaka, Claus Aranha </li>
 </ul>  
